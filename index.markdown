@@ -10,3 +10,5 @@ layout: default
 <div class="gif-container">
   <img src="/images/onepiece.gif" alt="OnePiece GIF" class="centered-gif">
 </div>
+
+<p>I can publish anything I want here, I control this world!</p>
